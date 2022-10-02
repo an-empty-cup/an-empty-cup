@@ -1,12 +1,13 @@
-Beauty.
-Simplicity.
-Clarity.
-Concreteness.
+Here lies a gate. 
 
-Please, send ideas.
+  What is beyond the gate?
 
-Let's take big data sets and visualize different relationships we find in that data.
-Let's make immersive and beautiful experiences.
-Let's use technology to bring into physical reality ideas that will inspire an interest for the future, for organic growth, 
-for organic change, for simplicity, and for beauty.
+Code.
 
+  How did it get beyond the gate?
+
+    It was built with simplicity.
+
+    It was built with intention.
+    
+    It was built through tests.
